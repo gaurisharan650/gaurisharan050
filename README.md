@@ -12,7 +12,7 @@
 - Data Analysis
 - HTML, CSS, JavaScript
 
-## 📊 Projects
+
 ## 📊 Projects
 
 • Product Performance and User Journey Analysis Dashboard (SQL, Power BI)

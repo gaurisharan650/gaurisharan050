@@ -21,6 +21,8 @@
 
 • Customer Route Mapping System (JavaScript, Web Development)
 
+• Electrical Complaint Management System (HTML, CSS, JavaScript, Local Storage, DOM Manipulation, CRUD Operations)
+
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gauri22/
 - Email: gaurisharan650@gmail.com
